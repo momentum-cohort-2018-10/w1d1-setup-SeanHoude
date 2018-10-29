@@ -1,0 +1,5 @@
+Homebrew 1.8.0
+Python 3.7.0
+pipenv, version 2018.10.13
+
+These are my versions. There are many like them but these ones are mine!
